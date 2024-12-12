@@ -3,6 +3,8 @@
 ## Description
 This project demonstrates the integration of a Student Enrollment Form with JsonPowerDB, a high-performance, RESTful database designed for web applications. The form allows users to input and update student details, such as Roll Number, Full Name, Class, Date of Birth, Address, and Enrollment Date. The data is stored in JsonPowerDB, enabling fast retrieval and manipulation. The application provides real-time interaction with the database, ensuring efficient data handling.
 
+> ⭐ If you find this project helpful, please star this repository to show your support!
+
 ## Table of Contents
 1. [Benefits of using JsonPowerDB](#Benefits-of-using-JsonPowerDB)
 2. [Release History](#Release-History)
@@ -26,9 +28,17 @@ This project demonstrates the integration of a Student Enrollment Form with Json
 
 ## Illustrations
 
-![Student Enrollment Form](Scripts/StudentFormJPDB.png)
+![Student Enrollment Form](StudentFormJPDBImages/StudentFormJPDB.png)
 
 *Figure 1: Screenshot of the Student Enrollment Form Interface.*
+
+![Student Enrollment Form](StudentFormJPDBImages/StudentFormJPDB1.png)
+
+*Figure 2: Screenshot of Saving Data in the JSONPowerDatabase.*
+
+![Student Enrollment Form](StudentFormJPDBImages/StudentFormJPDB2.png)
+
+*Figure 3: Screenshot of Updating Data in the JSONPowerDatabase.*
 
 ## Scope of Functionalities
 This project includes the following functionalities:
@@ -48,6 +58,11 @@ This project includes the following functionalities:
 2. **Updating an Existing Student:**
    - Enter a valid Roll Number to fetch the student’s existing data.
    - Modify the required fields and click the "Update" button to update the student's details in the database.
+
+3. **Using the Reset Button:**
+   - After entering data or making changes, click the **"Reset"** button.
+   - This will clear all fields in the form, allowing you to start fresh without refreshing the page.
+   - The reset functionality ensures no residual data is left in the form fields from the previous entry or modification.
 
 ## Project Status
 The project has been **successfully completed as part of the Login2Xplore Introduction to JsonPowerDB - V2.0 course**. It demonstrates the effective use of JsonPowerDB for handling student enrollment data with real-time database operations.
