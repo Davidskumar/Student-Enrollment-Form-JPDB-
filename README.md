@@ -3,6 +3,17 @@
 ## Description
 This project demonstrates the integration of a Student Enrollment Form with JsonPowerDB, a high-performance, RESTful database designed for web applications. The form allows users to input and update student details, such as Roll Number, Full Name, Class, Date of Birth, Address, and Enrollment Date. The data is stored in JsonPowerDB, enabling fast retrieval and manipulation. The application provides real-time interaction with the database, ensuring efficient data handling.
 
+## Table of Contents
+1. [Benefits of using JsonPowerDB](#Benefits-of-using-JsonPowerDB)
+2. [Release History](#Release-History)
+3. [Illustrations](#Illustrations)
+4. [Scope of Functionalities](#Scope-of-Functionalities)
+5. [Examples](#examples)
+6. [Project Status](#project-status)
+7. [Sources](#sources)
+8. [Other Information](#other-information)
+
+
 ## Benefits of using JsonPowerDB
 - **High Performance:** JsonPowerDB provides real-time access to data with low latency, making it ideal for applications that require quick and efficient data retrieval.
 - **RESTful Interface:** The API allows easy integration with web applications, supporting both GET and PUT requests for managing data.
@@ -12,14 +23,6 @@ This project demonstrates the integration of a Student Enrollment Form with Json
 
 ## Release History
 - **Version 1.0** (December 2024): Initial release of the Student Enrollment Form project with JsonPowerDB integration. The project supports student data insertion and updating with a user-friendly interface.
-
-## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Examples](#examples)
-4. [Project Status](#project-status)
-5. [Sources](#sources)
-6. [Other Information](#other-information)
 
 ## Illustrations
 
