@@ -8,7 +8,7 @@ This project demonstrates the integration of a Student Enrollment Form with Json
 2. [Release History](#Release-History)
 3. [Illustrations](#Illustrations)
 4. [Scope of Functionalities](#Scope-of-Functionalities)
-5. [Examples](#examples)
+5. [Examples](#examples-of-use)
 6. [Project Status](#project-status)
 7. [Sources](#sources)
 8. [Other Information](#other-information)
