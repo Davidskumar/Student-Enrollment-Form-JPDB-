@@ -47,7 +47,7 @@ This project includes the following functionalities:
    - Modify the required fields and click the "Update" button to update the student's details in the database.
 
 ## Project Status
-The project is in an **active development** stage. The current version supports basic data entry and updating via JsonPowerDB. Future releases will focus on additional features like data validation, advanced querying, and performance optimizations.
+The project has been **successfully completed as part of the Login2Xplore Introduction to JsonPowerDB - V2.0 course**. It demonstrates the effective use of JsonPowerDB for handling student enrollment data with real-time database operations.
 
 ## Sources
 - **JsonPowerDB Documentation:** [JsonPowerDB Docs](https://www.login2explore.com/)
