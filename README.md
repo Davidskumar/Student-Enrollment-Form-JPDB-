@@ -23,7 +23,7 @@ This project demonstrates the integration of a Student Enrollment Form with Json
 
 ## Illustrations
 
-![Student Enrollment Form](https://via.placeholder.com/600x400?text=Student+Enrollment+Form)
+![Student Enrollment Form](Scripts/StudentFormJPDB.png)
 
 *Figure 1: Screenshot of the Student Enrollment Form Interface.*
 
